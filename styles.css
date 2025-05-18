@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.card-header{
+	margin: 20px;
+	border:40px;
+	border-width:20px;
+}
